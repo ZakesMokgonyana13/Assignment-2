@@ -38,9 +38,6 @@ This is a basic flashcard quiz app built with Kotlin in Android Studio. The app 
 - Logcat was used to monitor key actions like button clicks and question progress.
 - The code includes comments to explain each section and help understand the logic.
 
-## YouTube Demo
-A video demonstration of the app has been uploaded to YouTube and explains how the app works.  
-**[Insert your unlisted YouTube video link here]**
 
 ## Technologies Used
 - Kotlin
@@ -49,5 +46,5 @@ A video demonstration of the app has been uploaded to YouTube and explains how t
 - GitHub Actions (CI)
 
 ## Author
-[Your Name]  
-[Date]# Assignment-2
+[Majawe Mokgonyana]  
+[16 May 2025]# Assignment-2
